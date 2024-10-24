@@ -9,7 +9,7 @@ Asssigment 1: usare approcci computazionali per gestire molteplici variazioni di
 <ul>
   <li>Opera: 'No Title' Frieder Nake (1967)</li>
   <li>Fonte: [www.tate.org.uk/art/artworks/nake-no-title-p80809](https://www.tate.org.uk/art/artworks/nake-no-title-p80809)</li>
-  <li>Variabili visive analizzate che subiscono una variazione all'interno dell'opera sono: dimensione, forma, orientamento e colore</li>
+  <li>Variabili visive analizzate che subiscono una variazione all'interno dell'opera sono: dimensione, orientamento e colore</li>
 
 </ul>
 Ulteriori informazioni sul procedimento utilizzato per riprodurre l'opera sono inserite all'interno del codice come commenti.
