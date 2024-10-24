@@ -5,9 +5,9 @@ This repository is the starting point of the assignments given in the course  [C
 
 Asssigment 1: usare approcci computazionali per gestire molteplici variazioni di variabili visive.
 
-## Opera
+## Opera di riferimento
 <ul>
-  <li>Opera scelta: 'No Title' Frieder Nake (1967)</li>
+  <li>Opera: 'No Title' Frieder Nake (1967)</li>
   <li>Fonte: [www.tate.org.uk/art/artworks/nake-no-title-p80809](https://www.tate.org.uk/art/artworks/nake-no-title-p80809)</li>
   <li>Variabili visive analizzate che subiscono una variazione all'interno dell'opera sono: dimensione, forma, orientamento e colore</li>
 
