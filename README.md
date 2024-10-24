@@ -1,11 +1,12 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HEVN0QSv)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16719317&assignment_repo_type=AssignmentRepo)
 # P5 Assigment 1
-Corso di [Computergrafica per l'Information Design](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=834257&lang=IT&__pj0=0&__pj1=9c10fe379e96db59d55d49b6b4252c5e).
-# Opera analizzata
-![frieder_nake_small](https://github.com/user-attachments/assets/c8a92792-c440-4454-a090-1e0e34069bdf)
+This repository is the starting point of the assignments given in the course  [Computergrafica per l'Information Design](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=834257&lang=IT&__pj0=0&__pj1=9c10fe379e96db59d55d49b6b4252c5e).
+## Opera analizzata
+'No Title' Frieder Nake (1967)
+<br> Fonte: [www.tate.org.uk/art/artworks/nake-no-title-p80809](https://www.tate.org.uk/art/artworks/nake-no-title-p80809).
+
+![frieder_nake_small](https://github.com/user-attachments/assets/a2f57783-7ce3-4d70-b262-9b20d940ccde)
 
 
-'No Title' 1967, Frieder Nake
 
-Fonte: [www.tate.org.uk/art/artworks/nake-no-title-p80809](https://www.tate.org.uk/art/artworks/nake-no-title-p80809).
