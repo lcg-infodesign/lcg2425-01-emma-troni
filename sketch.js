@@ -10,6 +10,8 @@ function setup() {
   textAlign(CENTER, CENTER);
   textSize(16);
   text(message, width / 2, height / 2);
+
+  
 }
 
 function draw() {
