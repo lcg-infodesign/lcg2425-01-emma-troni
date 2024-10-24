@@ -3,7 +3,9 @@
 # P5 Assigment 1
 Corso di [Computergrafica per l'Information Design](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=834257&lang=IT&__pj0=0&__pj1=9c10fe379e96db59d55d49b6b4252c5e).
 # Opera analizzata
-![P80809_10](https://github.com/user-attachments/assets/27a5b91d-0d46-4604-9036-2ea9e837f820)
+![frieder_nake_small](https://github.com/user-attachments/assets/c8a92792-c440-4454-a090-1e0e34069bdf)
+
+
 'No Title' 1967, Frieder Nake
 
 Fonte: [www.tate.org.uk/art/artworks/nake-no-title-p80809](https://www.tate.org.uk/art/artworks/nake-no-title-p80809).
