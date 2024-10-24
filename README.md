@@ -6,4 +6,4 @@ Corso di [Computergrafica per l'Information Design](https://www11.ceda.polimi.it
 ![P80809_10](https://github.com/user-attachments/assets/27a5b91d-0d46-4604-9036-2ea9e837f820)
 'No Title' 1967, Frieder Nake
 
-Fonte:[tate.org.uk](https://www.tate.org.uk/art/artworks/nake-no-title-p80809).
+Fonte: [www.tate.org.uk](https://www.tate.org.uk/art/artworks/nake-no-title-p80809).
